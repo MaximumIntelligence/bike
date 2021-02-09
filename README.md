@@ -1,5 +1,5 @@
 # bike
-Commandline app about ecobike
+Commandline app about ecobike.
 В зависимости от выбора пользователя программа может:
 -вывести в консоль весь каталог велосипедов;
 -добавить разные типы велосипедов в каталог (folding bike, e-bike, speedelec);
